@@ -1,1 +1,0 @@
-scoreboard objectives add pi_keepinv dummy
